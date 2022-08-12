@@ -33,6 +33,7 @@
 		E9582F0F28A589070039710A /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F0E28A589070039710A /* AlertExample.swift */; };
 		E9582F1528A65E790039710A /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1428A65E790039710A /* ActionSheetExample.swift */; };
 		E9582F1728A664490039710A /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1628A664490039710A /* ContextMenuExample.swift */; };
+		E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1828A666DC0039710A /* TextFieldExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		E9582F0E28A589070039710A /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		E9582F1428A65E790039710A /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
 		E9582F1628A664490039710A /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
+		E9582F1828A666DC0039710A /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				E9582F1428A65E790039710A /* ActionSheetExample.swift */,
 				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
 				E9582F1628A664490039710A /* ContextMenuExample.swift */,
+				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
 				E9582F0E28A589070039710A /* AlertExample.swift */,
 				E9582F0828A3DE930039710A /* SheetsExample.swift */,
 				E9582F0A28A3E53E0039710A /* NavigationExample.swift */,
@@ -217,6 +220,7 @@
 				E9582EE728A257210039710A /* Images.swift in Sources */,
 				E9582F0328A3D0E10039710A /* TransitionExample.swift in Sources */,
 				E9582EF328A29E820039710A /* ScrollViewExample.swift in Sources */,
+				E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */,
 				E9582EEB28A27AC00039710A /* BackgroundOverlays.swift in Sources */,
 				E9582EE528A255570039710A /* Icons.swift in Sources */,
 				E9582EE328A254D40039710A /* GradientView.swift in Sources */,
