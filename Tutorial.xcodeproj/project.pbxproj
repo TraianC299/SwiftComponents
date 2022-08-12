@@ -36,6 +36,7 @@
 		E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1828A666DC0039710A /* TextFieldExample.swift */; };
 		E9582F1B28A66CE00039710A /* TextEditorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1A28A66CE00039710A /* TextEditorExample.swift */; };
 		E9582F1D28A66E710039710A /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1C28A66E710039710A /* ToggleExample.swift */; };
+		E9582F1F28A66FC30039710A /* PickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1E28A66FC30039710A /* PickerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		E9582F1828A666DC0039710A /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		E9582F1A28A66CE00039710A /* TextEditorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorExample.swift; sourceTree = "<group>"; };
 		E9582F1C28A66E710039710A /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
+		E9582F1E28A66FC30039710A /* PickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				E9582F1428A65E790039710A /* ActionSheetExample.swift */,
 				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
 				E9582F1628A664490039710A /* ContextMenuExample.swift */,
+				E9582F1E28A66FC30039710A /* PickerExample.swift */,
 				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
 				E9582F1A28A66CE00039710A /* TextEditorExample.swift */,
 				E9582F1C28A66E710039710A /* ToggleExample.swift */,
@@ -220,6 +223,7 @@
 				E9582F0D28A5850B0039710A /* ListExample.swift in Sources */,
 				E9582ED528A241E00039710A /* TutorialApp.swift in Sources */,
 				E9582EF728A395D10039710A /* SafeareaExample.swift in Sources */,
+				E9582F1F28A66FC30039710A /* PickerExample.swift in Sources */,
 				E9582EFD28A39FA30039710A /* BindingWrapper.swift in Sources */,
 				E9582EFF28A3CA530039710A /* Conditionals.swift in Sources */,
 				E9582EEF28A28E180039710A /* ForLoops.swift in Sources */,
