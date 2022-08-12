@@ -34,6 +34,7 @@
 		E9582F1528A65E790039710A /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1428A65E790039710A /* ActionSheetExample.swift */; };
 		E9582F1728A664490039710A /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1628A664490039710A /* ContextMenuExample.swift */; };
 		E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1828A666DC0039710A /* TextFieldExample.swift */; };
+		E9582F1B28A66CE00039710A /* TextEditorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1A28A66CE00039710A /* TextEditorExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		E9582F1428A65E790039710A /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
 		E9582F1628A664490039710A /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
 		E9582F1828A666DC0039710A /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
+		E9582F1A28A66CE00039710A /* TextEditorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
 				E9582F1628A664490039710A /* ContextMenuExample.swift */,
 				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
+				E9582F1A28A66CE00039710A /* TextEditorExample.swift */,
 				E9582F0E28A589070039710A /* AlertExample.swift */,
 				E9582F0828A3DE930039710A /* SheetsExample.swift */,
 				E9582F0A28A3E53E0039710A /* NavigationExample.swift */,
@@ -230,6 +233,7 @@
 				E9582EE928A259C00039710A /* Frames.swift in Sources */,
 				E9582F0F28A589070039710A /* AlertExample.swift in Sources */,
 				E9582F0B28A3E53E0039710A /* NavigationExample.swift in Sources */,
+				E9582F1B28A66CE00039710A /* TextEditorExample.swift in Sources */,
 				E9582EFB28A39C110039710A /* ExtractedFunctions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
