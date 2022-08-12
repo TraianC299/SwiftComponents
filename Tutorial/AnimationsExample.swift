@@ -17,14 +17,12 @@ struct AnimationsExample: View {
             Spacer()
 
             HStack {
-                Button("Toggle Rectangle"){
+                CustomButton(title:"Toggle Rectangle"){
                     withAnimation(.default){
                         isAnimatedRectangle.toggle()
                     }
                 }
-                .padding()
-                .background(.blue)
-                .foregroundColor(.white)
+                
                 Spacer()
                 Rectangle()
                     .fill(isAnimatedRectangle ? .blue: .red)
@@ -38,13 +36,10 @@ struct AnimationsExample: View {
             }
             Spacer()
             HStack {
-                Button("Toggle Circle"){
-                        isAnimatedCircle.toggle()
-                    
+                CustomButton(title:"Toggle Circle"){
+                    isAnimatedCircle.toggle()
+
                 }
-                .padding()
-                .background(.blue)
-                .foregroundColor(.white)
                 Spacer()
                 Circle()
                     .fill(isAnimatedCircle ? .blue: .red)

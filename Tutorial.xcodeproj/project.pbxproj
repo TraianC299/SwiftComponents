@@ -31,6 +31,8 @@
 		E9582F0B28A3E53E0039710A /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F0A28A3E53E0039710A /* NavigationExample.swift */; };
 		E9582F0D28A5850B0039710A /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F0C28A5850B0039710A /* ListExample.swift */; };
 		E9582F0F28A589070039710A /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F0E28A589070039710A /* AlertExample.swift */; };
+		E9582F1528A65E790039710A /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1428A65E790039710A /* ActionSheetExample.swift */; };
+		E9582F1728A664490039710A /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F1628A664490039710A /* ContextMenuExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +61,8 @@
 		E9582F0A28A3E53E0039710A /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
 		E9582F0C28A5850B0039710A /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 		E9582F0E28A589070039710A /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
+		E9582F1428A65E790039710A /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
+		E9582F1628A664490039710A /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +110,9 @@
 				E9582EFA28A39C110039710A /* ExtractedFunctions.swift */,
 				E9582F0028A3CD010039710A /* AnimationsExample.swift */,
 				E9582F0628A3D5D20039710A /* CustomButton.swift */,
+				E9582F1428A65E790039710A /* ActionSheetExample.swift */,
 				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
+				E9582F1628A664490039710A /* ContextMenuExample.swift */,
 				E9582F0E28A589070039710A /* AlertExample.swift */,
 				E9582F0828A3DE930039710A /* SheetsExample.swift */,
 				E9582F0A28A3E53E0039710A /* NavigationExample.swift */,
@@ -198,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9582ED728A241E00039710A /* ContentView.swift in Sources */,
+				E9582F1728A664490039710A /* ContextMenuExample.swift in Sources */,
 				E9582F0728A3D5D20039710A /* CustomButton.swift in Sources */,
 				E9582F0928A3DE930039710A /* SheetsExample.swift in Sources */,
 				E9582F0128A3CD010039710A /* AnimationsExample.swift in Sources */,
@@ -215,6 +222,7 @@
 				E9582EE328A254D40039710A /* GradientView.swift in Sources */,
 				E9582EED28A28A430039710A /* InitEnums.swift in Sources */,
 				E9582EF928A399750039710A /* StateExample.swift in Sources */,
+				E9582F1528A65E790039710A /* ActionSheetExample.swift in Sources */,
 				E9582EE928A259C00039710A /* Frames.swift in Sources */,
 				E9582F0F28A589070039710A /* AlertExample.swift in Sources */,
 				E9582F0B28A3E53E0039710A /* NavigationExample.swift in Sources */,
