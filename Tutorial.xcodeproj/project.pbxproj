@@ -46,6 +46,7 @@
 		E9582F2F28A7D0EE0039710A /* DocumentationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F2E28A7D0EE0039710A /* DocumentationExample.swift */; };
 		E9582F3128A803AC0039710A /* onAppearExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3028A803AC0039710A /* onAppearExample.swift */; };
 		E9582F3328A806ED0039710A /* IfLetGuardExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3228A806ED0039710A /* IfLetGuardExample.swift */; };
+		E9582F3528A80C2A0039710A /* TapGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3428A80C2A0039710A /* TapGestureExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -89,6 +90,7 @@
 		E9582F2E28A7D0EE0039710A /* DocumentationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationExample.swift; sourceTree = "<group>"; };
 		E9582F3028A803AC0039710A /* onAppearExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onAppearExample.swift; sourceTree = "<group>"; };
 		E9582F3228A806ED0039710A /* IfLetGuardExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardExample.swift; sourceTree = "<group>"; };
+		E9582F3428A80C2A0039710A /* TapGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				E9582F2228A675FF0039710A /* ColorPickerExample.swift */,
 				E9582F2C28A7CE640039710A /* DarkModeExample.swift */,
 				E9582F3228A806ED0039710A /* IfLetGuardExample.swift */,
+				E9582F3428A80C2A0039710A /* TapGestureExample.swift */,
 				E9582F2828A7C90B0039710A /* SliderExample.swift */,
 				E9582F1E28A66FC30039710A /* PickerExample.swift */,
 				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
@@ -258,6 +261,7 @@
 				E9582EEF28A28E180039710A /* ForLoops.swift in Sources */,
 				E9582EE728A257210039710A /* Images.swift in Sources */,
 				E9582F0328A3D0E10039710A /* TransitionExample.swift in Sources */,
+				E9582F3528A80C2A0039710A /* TapGestureExample.swift in Sources */,
 				E9582EF328A29E820039710A /* ScrollViewExample.swift in Sources */,
 				E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */,
 				E9582EEB28A27AC00039710A /* BackgroundOverlays.swift in Sources */,
