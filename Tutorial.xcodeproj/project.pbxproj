@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E9300C0328A937E2002A7F7C /* AppStorageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9300C0228A937E2002A7F7C /* AppStorageExample.swift */; };
 		E9582ED528A241E00039710A /* TutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582ED428A241E00039710A /* TutorialApp.swift */; };
 		E9582ED728A241E00039710A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582ED628A241E00039710A /* ContentView.swift */; };
 		E9582ED928A241E30039710A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9582ED828A241E30039710A /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E9300C0228A937E2002A7F7C /* AppStorageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageExample.swift; sourceTree = "<group>"; };
 		E9582ED128A241E00039710A /* Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9582ED428A241E00039710A /* TutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialApp.swift; sourceTree = "<group>"; };
 		E9582ED628A241E00039710A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				E9582F1628A664490039710A /* ContextMenuExample.swift */,
 				E9582F2A28A7CB390039710A /* TabViewExample.swift */,
 				E9582F2228A675FF0039710A /* ColorPickerExample.swift */,
+				E9300C0228A937E2002A7F7C /* AppStorageExample.swift */,
 				E9582F3C28A8D7190039710A /* EnvironmentObjectExample.swift */,
 				E9582F2C28A7CE640039710A /* DarkModeExample.swift */,
 				E9582F3228A806ED0039710A /* IfLetGuardExample.swift */,
@@ -280,6 +283,7 @@
 				E9582F2F28A7D0EE0039710A /* DocumentationExample.swift in Sources */,
 				E9582EE528A255570039710A /* Icons.swift in Sources */,
 				E9582F2528A676DE0039710A /* DatePickerExample.swift in Sources */,
+				E9300C0328A937E2002A7F7C /* AppStorageExample.swift in Sources */,
 				E9582EE328A254D40039710A /* GradientView.swift in Sources */,
 				E9582EED28A28A430039710A /* InitEnums.swift in Sources */,
 				E9582F1D28A66E710039710A /* ToggleExample.swift in Sources */,
