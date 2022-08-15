@@ -51,6 +51,16 @@
 		E9582F3928A80E1C0039710A /* ModelExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3828A80E1C0039710A /* ModelExample.swift */; };
 		E9582F3B28A8CFF70039710A /* ViewModelExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3A28A8CFF70039710A /* ViewModelExample.swift */; };
 		E9582F3D28A8D7190039710A /* EnvironmentObjectExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9582F3C28A8D7190039710A /* EnvironmentObjectExample.swift */; };
+		E981E8E328AA35D000143AFD /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8E228AA35D000143AFD /* IntroView.swift */; };
+		E981E8E528AA374C00143AFD /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8E428AA374C00143AFD /* OnboardingView.swift */; };
+		E981E8E728AA4D2000143AFD /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8E628AA4D2000143AFD /* ProfileView.swift */; };
+		E981E8E928AA6DB100143AFD /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8E828AA6DB100143AFD /* AsyncImageExample.swift */; };
+		E981E8EC28AA6F9A00143AFD /* SystemMaterialsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8EB28AA6F9A00143AFD /* SystemMaterialsExample.swift */; };
+		E981E8EE28AA70FA00143AFD /* TextSelectionExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8ED28AA70FA00143AFD /* TextSelectionExample.swift */; };
+		E981E8F028AA718400143AFD /* ListSwipeActionsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8EF28AA718400143AFD /* ListSwipeActionsExample.swift */; };
+		E981E8F228AA72DB00143AFD /* BadgesExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8F128AA72DB00143AFD /* BadgesExample.swift */; };
+		E981E8F428AA73BB00143AFD /* FocusStateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8F328AA73BB00143AFD /* FocusStateExample.swift */; };
+		E981E8F628AA74F400143AFD /* SubmitFuctionalityExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981E8F528AA74F400143AFD /* SubmitFuctionalityExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +109,16 @@
 		E9582F3828A80E1C0039710A /* ModelExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelExample.swift; sourceTree = "<group>"; };
 		E9582F3A28A8CFF70039710A /* ViewModelExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelExample.swift; sourceTree = "<group>"; };
 		E9582F3C28A8D7190039710A /* EnvironmentObjectExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectExample.swift; sourceTree = "<group>"; };
+		E981E8E228AA35D000143AFD /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		E981E8E428AA374C00143AFD /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		E981E8E628AA4D2000143AFD /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		E981E8E828AA6DB100143AFD /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
+		E981E8EB28AA6F9A00143AFD /* SystemMaterialsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemMaterialsExample.swift; sourceTree = "<group>"; };
+		E981E8ED28AA70FA00143AFD /* TextSelectionExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionExample.swift; sourceTree = "<group>"; };
+		E981E8EF28AA718400143AFD /* ListSwipeActionsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsExample.swift; sourceTree = "<group>"; };
+		E981E8F128AA72DB00143AFD /* BadgesExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesExample.swift; sourceTree = "<group>"; };
+		E981E8F328AA73BB00143AFD /* FocusStateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateExample.swift; sourceTree = "<group>"; };
+		E981E8F528AA74F400143AFD /* SubmitFuctionalityExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitFuctionalityExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,50 +151,52 @@
 		E9582ED328A241E00039710A /* Tutorial */ = {
 			isa = PBXGroup;
 			children = (
-				E9582ED428A241E00039710A /* TutorialApp.swift */,
-				E9582ED628A241E00039710A /* ContentView.swift */,
-				E9582ED828A241E30039710A /* Assets.xcassets */,
-				E9582EDA28A241E30039710A /* Preview Content */,
-				E9582EE228A254D40039710A /* GradientView.swift */,
-				E9582EE628A257210039710A /* Images.swift */,
-				E9582EE828A259C00039710A /* Frames.swift */,
-				E9582EEA28A27AC00039710A /* BackgroundOverlays.swift */,
-				E9582EF628A395D10039710A /* SafeareaExample.swift */,
-				E9582EF828A399750039710A /* StateExample.swift */,
-				E9582EEC28A28A430039710A /* InitEnums.swift */,
-				E9582EF228A29E820039710A /* ScrollViewExample.swift */,
-				E9582EFA28A39C110039710A /* ExtractedFunctions.swift */,
-				E9582F0028A3CD010039710A /* AnimationsExample.swift */,
-				E9582F0628A3D5D20039710A /* CustomButton.swift */,
 				E9582F1428A65E790039710A /* ActionSheetExample.swift */,
-				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
-				E9582F1628A664490039710A /* ContextMenuExample.swift */,
-				E9582F2A28A7CB390039710A /* TabViewExample.swift */,
-				E9582F2228A675FF0039710A /* ColorPickerExample.swift */,
-				E9300C0228A937E2002A7F7C /* AppStorageExample.swift */,
-				E9582F3C28A8D7190039710A /* EnvironmentObjectExample.swift */,
-				E9582F2C28A7CE640039710A /* DarkModeExample.swift */,
-				E9582F3228A806ED0039710A /* IfLetGuardExample.swift */,
-				E9582F3428A80C2A0039710A /* TapGestureExample.swift */,
-				E9582F3828A80E1C0039710A /* ModelExample.swift */,
-				E9582F2828A7C90B0039710A /* SliderExample.swift */,
-				E9582F1E28A66FC30039710A /* PickerExample.swift */,
-				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
-				E9582F2628A7C6DE0039710A /* StepperExample.swift */,
-				E9582F2428A676DE0039710A /* DatePickerExample.swift */,
-				E9582F1A28A66CE00039710A /* TextEditorExample.swift */,
-				E9582F3A28A8CFF70039710A /* ViewModelExample.swift */,
-				E9582F2E28A7D0EE0039710A /* DocumentationExample.swift */,
-				E9582F3028A803AC0039710A /* onAppearExample.swift */,
-				E9582F1C28A66E710039710A /* ToggleExample.swift */,
 				E9582F0E28A589070039710A /* AlertExample.swift */,
-				E9582F0828A3DE930039710A /* SheetsExample.swift */,
-				E9582F0A28A3E53E0039710A /* NavigationExample.swift */,
-				E9582F0C28A5850B0039710A /* ListExample.swift */,
+				E9582F0028A3CD010039710A /* AnimationsExample.swift */,
+				E9300C0228A937E2002A7F7C /* AppStorageExample.swift */,
+				E9582ED828A241E30039710A /* Assets.xcassets */,
+				E9582EEA28A27AC00039710A /* BackgroundOverlays.swift */,
 				E9582EFC28A39FA30039710A /* BindingWrapper.swift */,
+				E9582F2228A675FF0039710A /* ColorPickerExample.swift */,
 				E9582EFE28A3CA530039710A /* Conditionals.swift */,
+				E9582ED628A241E00039710A /* ContentView.swift */,
+				E9582F1628A664490039710A /* ContextMenuExample.swift */,
+				E9582F0628A3D5D20039710A /* CustomButton.swift */,
+				E9582F2C28A7CE640039710A /* DarkModeExample.swift */,
+				E9582F2428A676DE0039710A /* DatePickerExample.swift */,
+				E9582F2E28A7D0EE0039710A /* DocumentationExample.swift */,
+				E9582F3C28A8D7190039710A /* EnvironmentObjectExample.swift */,
+				E9582EFA28A39C110039710A /* ExtractedFunctions.swift */,
 				E9582EEE28A28E180039710A /* ForLoops.swift */,
+				E9582EE828A259C00039710A /* Frames.swift */,
+				E9582EE228A254D40039710A /* GradientView.swift */,
 				E9582EE428A255570039710A /* Icons.swift */,
+				E9582F3228A806ED0039710A /* IfLetGuardExample.swift */,
+				E9582EE628A257210039710A /* Images.swift */,
+				E9582EEC28A28A430039710A /* InitEnums.swift */,
+				E981E8EA28AA6F5E00143AFD /* IOS15 */,
+				E9582F0C28A5850B0039710A /* ListExample.swift */,
+				E9582F3828A80E1C0039710A /* ModelExample.swift */,
+				E9582F0A28A3E53E0039710A /* NavigationExample.swift */,
+				E9582F3028A803AC0039710A /* onAppearExample.swift */,
+				E981E8E128AA35B700143AFD /* OnboardingViews */,
+				E9582F1E28A66FC30039710A /* PickerExample.swift */,
+				E9582EDA28A241E30039710A /* Preview Content */,
+				E9582EF628A395D10039710A /* SafeareaExample.swift */,
+				E9582EF228A29E820039710A /* ScrollViewExample.swift */,
+				E9582F0828A3DE930039710A /* SheetsExample.swift */,
+				E9582F2828A7C90B0039710A /* SliderExample.swift */,
+				E9582EF828A399750039710A /* StateExample.swift */,
+				E9582F2628A7C6DE0039710A /* StepperExample.swift */,
+				E9582F2A28A7CB390039710A /* TabViewExample.swift */,
+				E9582F3428A80C2A0039710A /* TapGestureExample.swift */,
+				E9582F1A28A66CE00039710A /* TextEditorExample.swift */,
+				E9582F1828A666DC0039710A /* TextFieldExample.swift */,
+				E9582F1C28A66E710039710A /* ToggleExample.swift */,
+				E9582F0228A3D0E10039710A /* TransitionExample.swift */,
+				E9582ED428A241E00039710A /* TutorialApp.swift */,
+				E9582F3A28A8CFF70039710A /* ViewModelExample.swift */,
 			);
 			path = Tutorial;
 			sourceTree = "<group>";
@@ -185,6 +207,30 @@
 				E9582EDB28A241E30039710A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E981E8E128AA35B700143AFD /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				E981E8E228AA35D000143AFD /* IntroView.swift */,
+				E981E8E428AA374C00143AFD /* OnboardingView.swift */,
+				E981E8E628AA4D2000143AFD /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
+			sourceTree = "<group>";
+		};
+		E981E8EA28AA6F5E00143AFD /* IOS15 */ = {
+			isa = PBXGroup;
+			children = (
+				E981E8E828AA6DB100143AFD /* AsyncImageExample.swift */,
+				E981E8EB28AA6F9A00143AFD /* SystemMaterialsExample.swift */,
+				E981E8ED28AA70FA00143AFD /* TextSelectionExample.swift */,
+				E981E8EF28AA718400143AFD /* ListSwipeActionsExample.swift */,
+				E981E8F528AA74F400143AFD /* SubmitFuctionalityExample.swift */,
+				E981E8F328AA73BB00143AFD /* FocusStateExample.swift */,
+				E981E8F128AA72DB00143AFD /* BadgesExample.swift */,
+			);
+			path = IOS15;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,14 +319,20 @@
 				E9582EFD28A39FA30039710A /* BindingWrapper.swift in Sources */,
 				E9582EFF28A3CA530039710A /* Conditionals.swift in Sources */,
 				E9582EEF28A28E180039710A /* ForLoops.swift in Sources */,
+				E981E8E328AA35D000143AFD /* IntroView.swift in Sources */,
+				E981E8F028AA718400143AFD /* ListSwipeActionsExample.swift in Sources */,
 				E9582EE728A257210039710A /* Images.swift in Sources */,
 				E9582F0328A3D0E10039710A /* TransitionExample.swift in Sources */,
+				E981E8E928AA6DB100143AFD /* AsyncImageExample.swift in Sources */,
 				E9582F3528A80C2A0039710A /* TapGestureExample.swift in Sources */,
 				E9582EF328A29E820039710A /* ScrollViewExample.swift in Sources */,
+				E981E8E528AA374C00143AFD /* OnboardingView.swift in Sources */,
 				E9582F3928A80E1C0039710A /* ModelExample.swift in Sources */,
 				E9582F1928A666DC0039710A /* TextFieldExample.swift in Sources */,
 				E9582EEB28A27AC00039710A /* BackgroundOverlays.swift in Sources */,
 				E9582F2F28A7D0EE0039710A /* DocumentationExample.swift in Sources */,
+				E981E8F228AA72DB00143AFD /* BadgesExample.swift in Sources */,
+				E981E8F628AA74F400143AFD /* SubmitFuctionalityExample.swift in Sources */,
 				E9582EE528A255570039710A /* Icons.swift in Sources */,
 				E9582F2528A676DE0039710A /* DatePickerExample.swift in Sources */,
 				E9300C0328A937E2002A7F7C /* AppStorageExample.swift in Sources */,
@@ -291,11 +343,15 @@
 				E9582F3128A803AC0039710A /* onAppearExample.swift in Sources */,
 				E9582F1528A65E790039710A /* ActionSheetExample.swift in Sources */,
 				E9582EE928A259C00039710A /* Frames.swift in Sources */,
+				E981E8F428AA73BB00143AFD /* FocusStateExample.swift in Sources */,
 				E9582F0F28A589070039710A /* AlertExample.swift in Sources */,
+				E981E8E728AA4D2000143AFD /* ProfileView.swift in Sources */,
 				E9582F2328A675FF0039710A /* ColorPickerExample.swift in Sources */,
 				E9582F3328A806ED0039710A /* IfLetGuardExample.swift in Sources */,
+				E981E8EC28AA6F9A00143AFD /* SystemMaterialsExample.swift in Sources */,
 				E9582F2D28A7CE640039710A /* DarkModeExample.swift in Sources */,
 				E9582F0B28A3E53E0039710A /* NavigationExample.swift in Sources */,
+				E981E8EE28AA70FA00143AFD /* TextSelectionExample.swift in Sources */,
 				E9582F2928A7C90B0039710A /* SliderExample.swift in Sources */,
 				E9582F1B28A66CE00039710A /* TextEditorExample.swift in Sources */,
 				E9582EFB28A39C110039710A /* ExtractedFunctions.swift in Sources */,
